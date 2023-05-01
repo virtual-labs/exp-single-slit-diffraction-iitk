@@ -2,15 +2,15 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In flatness testing with interferometry, if surfaces are perfectly wrung. Then which option is correct regarding fringe pattern?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "No fringe pattern",
+        "b": " Fringes are closer",
+        "c": "Fringes are a great distance",
+        "d": " 	Indistinguishable pattern"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "If the surface between optical flat and work surface are perfectly wrung together then there will be no air gap between the surfaces and the fringe pattern will be not observable.  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -19,21 +19,21 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which type of fringe is formed, if a path difference of λ/2 is observed in an interference pattern?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " Dark fringe",
+        "b": "Bright fringe",
+        "c": "Both bright and dark fringe overlap",
+        "d": "Unpredictable"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "The dark fringes are formed due to destructive interference. Interference is said to be destructive if the resultant amplitude and hence the resultant intensity is zero. The condition for destructive interference is that the phase difference between the two waves must be an odd multiple of π and the path difference between the two waves is equal to an odd multiple of λ/2. <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "medium"
     }
   ]
 }
