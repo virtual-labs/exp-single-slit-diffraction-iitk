@@ -2,34 +2,34 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The main principle used in Interference is ____?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " Heisenberg’s Uncertainty Principle",
+        "b": "Superposition Principle",
+        "c": "Quantum Mechanics",
+        "d": "Fermi Principle"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "b": "Superposition principle is the basic principle used in the interference of light. When the incoming light waves superimpose constructively, the intensity increases while when they add destructively, it decreases.",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "When Two waves of same amplitude add constructively, the intensity becomes ____?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " Double",
+        "b": "Half",
+        "c": "Four Times",
+        "d": "One-Fourth"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "As we know, I ∝ A2. Thus, as the two waves add constructively, their amplitude becomes twice and hence the intensity becomes four times.",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
