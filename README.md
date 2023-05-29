@@ -11,7 +11,7 @@ This experiment is concern about the process from which the wavelength of He-Ne 
 
 <b>Name of Developer | <b> Nishant Pandey 
 :--|:--|
-<b> Institute | <b> Rajkiya Engineering College Banda 
+<b> Institute | <b> Rajkiya Engineering College Banda, UP
 <b> Email id|     <b> nishpand01@gmail.com 
 <b> Department |  Mechanical Engineering
 
