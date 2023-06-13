@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Physical Science
+<b>Discipline | <b>Fill your discipline name here
 :--|:--|
+<b> Lab | <b> Fill your lab name here
+<b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
-This experiment is concern about the process from which the wavelength of He-Ne laser light using single slit differection  is to determined.
 
-<b>Name of Developer | <b> Nishant Pandey 
+Fill a brief description of this experiment here
+
+<b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b> Rajkiya Engineering College Banda 
-<b> Email id|     <b> nishpand01@gmail.com 
-<b> Department |  Mechanical Engineering
+<b> Institute | <b>  
+<b> Email id|     <b>  
+<b> Department |  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. Ashutosh Tiwari| Faculty | Applied Science and Humanities  | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
-2 | Adarsh Singh | Student| Information Technology | Rajkiya Engineering College Banda |adarshsingh2508@gmail.com
-3 | Rahul Pushpakar | Student| Mechanical Engineering | Rajkiya Engineering College Banda |rahulpushpker@gmail.com
-
-
+1 | . | . | . | . | .
+2 | . | . | . | . | .
