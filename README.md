@@ -3,8 +3,6 @@
 
 <b>Discipline | <b>Physical Science
 :--|:--|
-<b> Lab | <b> Physics Lab
-<b> Experiment|     <b> To determine the wavelength of He-Ne laser light using single slit diffraction. 
 
 ### About the Experiment 
 This experiment is concern about the process from which the wavelength of He-Ne laser light using single slit differection  is to determined.
