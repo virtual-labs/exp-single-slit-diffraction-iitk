@@ -1,1 +1,1 @@
-### To determine the wavelength of a He-Ne laser 
+### Aim of the experiment
