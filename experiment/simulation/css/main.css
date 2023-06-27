@@ -120,4 +120,36 @@ li{
   border: 1.5px solid black;
   
  }
- 
+ table{
+  /* background-color: #444; */
+  border: none;
+ }
+ table th{
+  font-size: 18px;
+  background-color: #252d42;
+  color: white;
+ }
+ #mainheadingoftable{
+   font-size: 24px;
+   color: white;
+ }
+ table td{
+ background-color: #d1befe;
+ }
+ table td input{
+  border-style: none;
+  font-size: 14px;
+  background-color: #bda1fc;
+ }
+ #print {
+  height: 50px;
+  width: 10%;
+  background-color: #292323;
+  color: white;
+  margin-top: 10px;
+  margin-left: 85%;
+  font-size: large;
+  border-radius: 6px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
