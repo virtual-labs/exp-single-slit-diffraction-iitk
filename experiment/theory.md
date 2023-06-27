@@ -1,5 +1,3 @@
-
-<br>
 <p>Light transverse wave. When two waves of same wavelength and amplitude travel through same medium, their amplitudes combine. A wave of greater or lesser amplitude than the original will be the result. The addition of amplitudes due to superposition of the waves is called interference. if the crest of one wave meets with the trough of the other, the resultant intensity will be zero and the waves are said to interfere destructively. Alternatively, if the crest of one wave meets with the crest of the other the resultant will be maximum intensity and the way are said to interfere constructively,<br>
 Suppose two coherent (i.e. their initial phase relationship remains constant) waves start from the same point and travel different paths before coming back together and interfering with each other, Suppose also that the re-combined waves illuminate a screen where the position on the screen depends on the difference in the lengths of the paths traveled by the two waves. Then the resulting alternating bright and dark bands on the screen are called interference fringes,<br>
 
@@ -25,16 +23,8 @@ If the path difference between two waves is (m + 1/2) λ , the interference betw
 Using the Michelson interferometer, the wavelength of light from a monochromatic source can be determined. If M1 is moved forward or backward, circular fringes appear or disappear at the center. The mirror is moved through a known distance d and the number N of fringes appearing or disappearing at the center is counted. For one fringe to appear or disappear, the mirror must be moved through a distance of λ/2. Knowing this, we can write,<br>
   
   
-<h2><b> d=nλ/2 </b></h2>
-
-  <br>
- so that the wavelength is,    
+<h2><b> d=nλ/2 </b></h2><br>
+so that the wavelength is,    
   
-  <h2> <b>λ=2d/n </b></h2>
-  <br>
-  </p>
-  
-
-
-
-
+<h2> <b>λ=2d/n </b></h2>
+</p>

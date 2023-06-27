@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var a = "First";
 var width = 0;
 function openNav() {
@@ -267,3 +268,6 @@ function printTable() {
   win.document.write('</body></html>');
   win.print();
 }
+=======
+//Your JavaScript goes in here
+>>>>>>> f05fc5b74bebc1733ea633f60a39613df5e2101b

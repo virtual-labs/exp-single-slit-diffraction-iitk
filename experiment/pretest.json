@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The main principle used in Interference is ____?",
+      "question": "1. The main principle used in Interference is ____?",
       "answers": {
         "a": " Heisenberg’s Uncertainty Principle",
         "b": "Superposition Principle",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "When Two waves of same amplitude add constructively, the intensity becomes ____?",
+      "question": "2. When Two waves of same amplitude add constructively, the intensity becomes ____?",
       "answers": {
         "a": " Double",
         "b": "Half",
