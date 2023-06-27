@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In flatness testing with interferometry, if surfaces are perfectly wrung. Then which option is correct regarding fringe pattern?",
+      "question": "1. In flatness testing with interferometry, if surfaces are perfectly wrung. Then which option is correct regarding fringe pattern?",
       "answers": {
         "a": "No fringe pattern",
         "b": " Fringes are closer",
         "c": "Fringes are a great distance",
-        "d": "Indistinguishable pattern"
+        "d": " Indistinguishable pattern"
       },
       "explanations": {
         "a": "If the surface between optical flat and work surface are perfectly wrung together then there will be no air gap between the surfaces and the fringe pattern will be not observable.  <a href='www.google.com'>here</a>",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which type of fringe is formed, if a path difference of λ/2 is observed in an interference pattern?",
+      "question": "2. Which type of fringe is formed, if a path difference of λ/2 is observed in an interference pattern?",
       "answers": {
         "a": " Dark fringe",
         "b": "Bright fringe",
