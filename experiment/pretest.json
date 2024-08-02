@@ -34,6 +34,57 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+     {
+      "question": "3. How does changing the distance between the single slit and the screen affect the diffraction pattern?",
+      "answers": {
+        "a": "It alters the intensity of the fringes",
+        "b": "It changes the color of the fringes",
+        "c": "It affects the width of the fringes",
+        "d": "It shifts the interference fringes"
+      },
+      "explanations": {
+        "a": "It affects the width of the fringes. Changing the distance between the single slit and the screen alters the angular spread of the diffraction pattern, which in turn affects the width of the interference fringes observed on the screen.",
+        "b": "It affects the width of the fringes. Changing the distance between the single slit and the screen alters the angular spread of the diffraction pattern, which in turn affects the width of the interference fringes observed on the screen.",
+        "c": "It affects the width of the fringes. Changing the distance between the single slit and the screen alters the angular spread of the diffraction pattern, which in turn affects the width of the interference fringes observed on the screen.",
+        "d": "It affects the width of the fringes. Changing the distance between the single slit and the screen alters the angular spread of the diffraction pattern, which in turn affects the width of the interference fringes observed on the screen."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which parameter primarily determines the width of the central maximum in the diffraction pattern obtained from a single slit?",
+      "answers": {
+        "a": "The distance to the screen",
+        "b": "The distance to the screen",
+        "c": "The distance to the screen",
+        "d": "The distance to the screen"
+      },
+      "explanations": {
+        "a": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum.",
+        "b": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum.",
+        "c": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum.",
+        "d": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5. What is the primary cause of the diffraction pattern observed in a single-slit experiment with a He-Ne laser?",
+      "answers": {
+        "a": "The interference of light waves from different sources",
+        "b": "The interference of light waves from different sources",
+        "c": "The interference of light waves from different sources",
+        "d": "The interference of light waves from different sources"
+      },
+      "explanations": {
+        "a": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges.",
+        "b": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges.",
+        "c": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges.",
+        "d": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
