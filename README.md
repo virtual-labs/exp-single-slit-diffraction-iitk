@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Physical Science
+<b>Discipline | <b>Fill your discipline name here
 :--|:--|
 <b> Lab | <b> Physics Lab
 <b> Experiment|     <b> To determine the wavelength of He-Ne laser light using single slit diffraction.
