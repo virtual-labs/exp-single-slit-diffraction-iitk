@@ -19,26 +19,23 @@
           <ul id="lists">
             <h1>
               Procedure to determine the wavelength of He-Ne laser using single
-              slit diffraction.
+              slit diffraction
             </h1>
             <li>
-              Step 1: Click on the Power source button in order to start the laser light.
+              Step 1: Click on the Power Supply to On the laser light.
             </li>
             <li>
-              Step 2:As we start the Laser light source a we can adjust the distace between the slit and screen by just moving the slidr.
-            </li>       
-                 <li>
-              Step 3: Set the distance between the screen and the laser arbitrarily and take reading of D(distance from the scren and the slit).
+              Step 2:Now user will adujust the position of slit as per his/her convienence by just scrolling the sliding bar which would shown on left corner of the experiment.
             </li>
             <li>
-              Step 4: Now  take reading of different maxima by just clicking and choosing the relevent maxima position.
+              Step 3: User will take reading of position of just drop down the box element.
+              take reading and feed in observation table.
             </li>
             <li>
-              Step 5: Fill these value in table and same way take reading for different value distance from the scren and the slit and note their maxima reading from side box and fill all the data in the table .
+              Step 4: If the user will pass through a systematic approach then green tick would shown in feeded row.
             </li>
             <li>
-              Step 6: Calculate the value of wavelength of  He-Ne laser using single
-              slit diffraction.
+              Step 5: Now user can print his/her reading on just click on Print Table.
             </li>
           </ul>
         </div>
@@ -274,8 +271,8 @@
               stroke-miterlimit: 10;
             }
             .st54 {
-              fill: #ba1313;
-              stroke: #800909;
+              fill: #010101;
+              stroke: #010101;
               stroke-width: 2;
               stroke-miterlimit: 10;
             }
@@ -299,12 +296,6 @@
             }
             .st59 {
               font-size: 5.9496px;
-            }
-            .redColor{
-              fill: red;
-            }
-            .greenColor{
-              fill: green;
             }
           </style>
           <rect y="0" class="st0" width="1024" height="768" />
@@ -1493,8 +1484,8 @@ tvSE3pQ4QiKRSLzkvwIMADWQsFM5x1CqAAAAAElFTkSuQmCC"
             style="overflow: visible"
             width="3500"
             height="7200"
-            xlink:href="./images/lb1 laser.png"
-            transform="matrix(0.0422 0 0 0.0422 520 83)"
+            xlink:href="./images/diffraction rays.png"
+            transform="matrix(0.0422 0 0 0.0422 266 66)"
             id="raysimage"
             class="raysClose"
           ></image>
@@ -1506,24 +1497,14 @@ tvSE3pQ4QiKRSLzkvwIMADWQsFM5x1CqAAAAAElFTkSuQmCC"
             width="175.18"
             height="34.85"
           />
-
-
-          <!-- scale reading hmne likha hh  -->
-          <!-- <text
-          transform="matrix(1 0 0 1 430.0723 463.3975)"
-          class="Scalereading" class="st48 st49"
-          
-        >
-        Scale Reading=
-        </text> -->
           <text
-            transform="matrix(1 0 0 1 450.0723 477.3975)"
+            transform="matrix(1 0 0 1 440.0723 477.3975)"
             class="st48 st49"
             id="rangeValueofD"
           >
-            120cm
+            D = 0 cm
           </text>
-          <!-- <rect x="415.5" y="121.5" class="st50" width="123" height="28" /> -->
+          <rect x="415.5" y="121.5" class="st50" width="123" height="28" />
           <rect
             x="387.12"
             y="130.12"
@@ -1531,8 +1512,8 @@ tvSE3pQ4QiKRSLzkvwIMADWQsFM5x1CqAAAAAElFTkSuQmCC"
             width="175.18"
             height="34.85"
           />
-          <text transform="matrix(1 0 0 1 400.2051 141.4775)" class="st48 st51">
-            Slit width= 3.3 mm
+          <text transform="matrix(1 0 0 1 441.2051 141.4775)" class="st48 st51">
+            d = 3.3 mm
           </text>
           <rect x="63.5" y="222.5" class="st50" width="123" height="28" />
           <rect
@@ -1575,7 +1556,7 @@ tvSE3pQ4QiKRSLzkvwIMADWQsFM5x1CqAAAAAElFTkSuQmCC"
             />
             <g id="rays">
               <path
-                class="st54 redColor greenColor"
+                class="st54"
                 d="M949.78,357.53c0-5.28,3.57-9.74,8.53-11.05v-4.96h6v4.96c4.79,1.3,8.53,5.76,8.53,11.05
 		s-3.57,9.74-8.53,11.05v4.96h-6v-4.96C953.28,367.19,949.78,362.82,949.78,357.53z"
                 id="raysBtn"
@@ -1617,7 +1598,7 @@ tvSE3pQ4QiKRSLzkvwIMADWQsFM5x1CqAAAAAElFTkSuQmCC"
                   <option value="Second">Second Maxima</option>
                   <option value="Third">Third Maxima</option>
                   <option value="Fourth">Fourth Maxima</option>
-                  <option value="Fiveth">Fiveth Maxima</option>
+                  <option value="Fiveth">Fiveth</option>
                 </select>
               </div>
             </div>
@@ -1627,8 +1608,8 @@ tvSE3pQ4QiKRSLzkvwIMADWQsFM5x1CqAAAAAElFTkSuQmCC"
       <input
         type="range"
         min="0"
-        max="108"
-        step="6"
+        max="144"
+        step="12"
         value="0"
         class="slider"
         id="lenceRange"
@@ -1709,9 +1690,9 @@ tvSE3pQ4QiKRSLzkvwIMADWQsFM5x1CqAAAAAElFTkSuQmCC"
           </td>
           <td>
             <button
-              style="background-color: #f92d34" id="button1"
+              style="background-color: #f92d34"
               onclick="completed(this.id)"
-              
+              id="button1"
             >
               <i class="fa fa-check" style="font-size: 24px"></i>
             </button>
@@ -1733,9 +1714,9 @@ tvSE3pQ4QiKRSLzkvwIMADWQsFM5x1CqAAAAAElFTkSuQmCC"
           </td>
           <td>
             <button
-              style="background-color: #f92d34"  id="button2"
+              style="background-color: #f92d34"
               onclick="completed(this.id)"
-             
+              id="button2"
             >
               <i class="fa fa-check" style="font-size: 24px"></i>
             </button>
