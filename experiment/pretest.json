@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The main principle used in Interference is ____?",
+      "question": "The main principle used in Interference is ____?",
       "answers": {
         "a": " Heisenberg’s Uncertainty Principle",
         "b": "Superposition Principle",
@@ -10,16 +10,16 @@
         "d": "Fermi Principle"
       },
       "explanations": {
-        "a": "Explanation",
+        "a": "Explanation 1 ",
         "b": "Superposition principle is the basic principle used in the interference of light. When the incoming light waves superimpose constructively, the intensity increases while when they add destructively, it decreases.",
-        "c": "Explanation",
-        "d": "Explanation"
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "2. When Two waves of same amplitude add constructively, the intensity becomes ____?",
+      "question": "When Two waves of same amplitude add constructively, the intensity becomes ____?",
       "answers": {
         "a": " Double",
         "b": "Half",
@@ -27,64 +27,64 @@
         "d": "One-Fourth"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
+        "a": "Explanation 1",
+        "b": "Explanation 2",
         "c": "As we know, I ∝ A2. Thus, as the two waves add constructively, their amplitude becomes twice and hence the intensity becomes four times.",
-        "d": "Explanation"
+        "d": "Explanation 2"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
      {
-      "question": "3. How does changing the distance between the single slit and the screen affect the diffraction pattern?",
+      "question": " How does changing the distance between the single slit and the screen affect the diffraction pattern?",
       "answers": {
-        "a": "It alters the intensity of the fringes",
+        "a": " It alters the intensity of the fringes",
         "b": "It changes the color of the fringes",
         "c": "It affects the width of the fringes",
         "d": "It shifts the interference fringes"
       },
       "explanations": {
-        "a": "It affects the width of the fringes. Changing the distance between the single slit and the screen alters the angular spread of the diffraction pattern, which in turn affects the width of the interference fringes observed on the screen.",
-        "b": "It affects the width of the fringes. Changing the distance between the single slit and the screen alters the angular spread of the diffraction pattern, which in turn affects the width of the interference fringes observed on the screen.",
+        "a": "Explanation 1 ",
+        "b": "Explanation 2",
         "c": "It affects the width of the fringes. Changing the distance between the single slit and the screen alters the angular spread of the diffraction pattern, which in turn affects the width of the interference fringes observed on the screen.",
-        "d": "It affects the width of the fringes. Changing the distance between the single slit and the screen alters the angular spread of the diffraction pattern, which in turn affects the width of the interference fringes observed on the screen."
+        "d": "Explanation 2"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
-    {
-      "question": "4. Which parameter primarily determines the width of the central maximum in the diffraction pattern obtained from a single slit?",
+     {
+      "question": "Which parameter primarily determines the width of the central maximum in the diffraction pattern obtained from a single slit?"
       "answers": {
-        "a": "The distance to the screen",
-        "b": "The distance to the screen",
-        "c": "The distance to the screen",
-        "d": "The distance to the screen"
+        "a": " The distance to the screen",
+        "b": "The width of the slit",
+        "c": "The wavelength of the laser light",
+        "d": " The laser intensity",
       },
       "explanations": {
-        "a": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum.",
+        "a": "Explanation 1 ",
         "b": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum.",
-        "c": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum.",
-        "d": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum."
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
      {
-      "question": "5. What is the primary cause of the diffraction pattern observed in a single-slit experiment with a He-Ne laser?",
+      "question": "What is the primary cause of the diffraction pattern observed in a single-slit experiment with a He-Ne laser?"
       "answers": {
-        "a": "The interference of light waves from different sources",
-        "b": "The interference of light waves from different sources",
-        "c": "The interference of light waves from different sources",
-        "d": "The interference of light waves from different sources"
+        "a": " The interference of light waves from different sources",
+        "b": "The bending of light waves around the edges of the slit",
+        "c": "The reflection of light waves from the edges of the slit",
+        "d": " The absorption of light waves by the slit material",
       },
       "explanations": {
-        "a": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges.",
+        "a": "Explanation 1 ",
         "b": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges.",
-        "c": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges.",
-        "d": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges."
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
   ]
 }

@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. In flatness testing with interferometry, if surfaces are perfectly wrung. Then which option is correct regarding fringe pattern?",
+      "question": "In flatness testing with interferometry, if surfaces are perfectly wrung. Then which option is correct regarding fringe pattern?",
       "answers": {
         "a": "No fringe pattern",
         "b": " Fringes are closer",
@@ -11,15 +11,15 @@
       },
       "explanations": {
         "a": "If the surface between optical flat and work surface are perfectly wrung together then there will be no air gap between the surfaces and the fringe pattern will be not observable.  <a href='www.google.com'>here</a>",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "2. Which type of fringe is formed, if a path difference of λ/2 is observed in an interference pattern?",
+      "question": "Which type of fringe is formed, if a path difference of λ/2 is observed in an interference pattern?",
       "answers": {
         "a": " Dark fringe",
         "b": "Bright fringe",
@@ -28,63 +28,63 @@
       },
       "explanations": {
         "a": "The dark fringes are formed due to destructive interference. Interference is said to be destructive if the resultant amplitude and hence the resultant intensity is zero. The condition for destructive interference is that the phase difference between the two waves must be an odd multiple of π and the path difference between the two waves is equal to an odd multiple of λ/2. <a href='www.google.com'>here</a>",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "medium"
     },
-    {
-      "question": "3. What is the purpose of conducting a single-slit experiment to determine the wavelength of HeNe laser light?",
+     {
+      "question": "What is the purpose of conducting a single-slit experiment to determine the wavelength of HeNe laser light?",
       "answers": {
         "a": "To measure the intensity of the laser light",
-        "b": "To create interference patterns",
+        "b": " To create interference patterns",
         "c": "To measure the angle of incidence",
-        "d": "To diffract the laser light into a spectrum"
+        "d": "To diffract the laser light into a spectrum",
       },
       "explanations": {
-        "a": "Explanation",
+        "a": " Explanation 2",
         "b": "To create interference patterns - In a single-slit experiment, the laser light passing through the narrow slit creates interference patterns, allowing for the determination of the laser's wavelength.",
-        "c": "Explanation",
-        "d": "Explanation"
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "medium"
     },
     {
-      "question": "4.Which parameter primarily affects the width of the central maximum in the diffraction pattern obtained from a single slit?",
+      "question": "Which parameter primarily affects the width of the central maximum in the diffraction pattern obtained from a single slit?",
       "answers": {
         "a": "The width of the slit",
-        "b": "The distance to the screen",
+        "b": "  The distance to the screen",
         "c": "The wavelength of the laser light",
-        "d": "The laser intensity"
+        "d": " The laser intensity",
       },
       "explanations": {
-        "a": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily influenced by the width of the slit. A narrower slit results in a wider central maximum, and vice versa.",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
+        "a": " The width of the slit - The width of the central maximum in the diffraction pattern is primarily influenced by the width of the slit. A narrower slit results in a wider central maximum, and vice versa.",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "medium"
     },
-    {
-      "question": "5.In a single-slit diffraction pattern, why do minima occur?",
+     {
+      "question": "In a single-slit diffraction pattern, why do minima occur?",
       "answers": {
         "a": "They are due to the complete cancellation of light waves",
         "b": "They are due to the partial absorption of light by the slit",
         "c": "They occur because of the overlapping of reflected light waves",
-        "d": "They are due to the scattering of light waves at different angles"
+        "d": " They are due to the scattering of light waves at different angles",
       },
       "explanations": {
-        "a": "Minima occur due to the complete destructive interference of light waves from different parts of the slit. This results in points of minimum intensity.",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
+        "a": " Minima occur due to the complete destructive interference of light waves from different parts of the slit. This results in points of minimum intensity.",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "medium"
-    }
+    },
   ]
 }

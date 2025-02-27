@@ -1,7 +1,5 @@
 var a = "First";
 var width = 0;
-let colorChangeCount = 1;
-
 function openNav() {
   document.getElementById("mySidepanel").style.width = "500px";
   document.getElementById("mySidepanel").style.height = "100%";
@@ -25,13 +23,12 @@ const rays = document.getElementById("rays");
 const raysLence = document.getElementById("raysLence");
 const lenceRange = document.getElementById("lenceRange");
 raysLence.setAttribute("transform", "matrix(0.055 0 0 0.0515 480 127)");
-raysimage.setAttribute("transform", `matrix(0.0422 0 0 0.0422 520 81)`);
+raysimage.setAttribute("transform", `matrix(0.0422 0 0 0.0422 503 66)`);
 
 let rotation = 90;
 raysBtn.addEventListener("click", () => {
   // rays.style.transition = "10s";
   // rays.style.translate = 30;
-  colorChangeCount++;
   raysBtn.classList.toggle("btnRotate");
   raysimage.classList.toggle("raysClose");
   raysPin.classList.toggle("raysClose");
@@ -39,28 +36,6 @@ raysBtn.addEventListener("click", () => {
   raysCircle.forEach((value) => {
     value.classList.toggle("raysClose");
   });
-
-
-  if (colorChangeCount % 2 === 0) {
-    raysBtn.classList.add("redColor");
-    raysBtn.classList.remove("greenColor");
-
-
-
-    raysBtn.style.transform = ('rotate(91deg)');
-    raysBtn.style.transition = 'transform 1s';
-		raysBtn.style.transformOrigin = "961.00px 357.0px"
-  } else {
-    raysBtn.classList.remove("redColor");
-    raysBtn.classList.add("greenColor");
-
-
-    raysBtn.style.transform = ('rotate(0deg)');
-    raysBtn.style.transition = 'transform 1s';
-		raysBtn.style.transformOrigin = "961.00px 357.0px"
-  }
-
-
 
   lenceRange.disabled = lenceRange.disabled ? false : true;
 
@@ -70,13 +45,13 @@ raysBtn.addEventListener("click", () => {
     rangeValueofD.innerHTML = 0;
     document.getElementById("lenceRange").value = 0;
     raysLence.setAttribute("transform", `matrix(0.055 0 0 0.0515 480 127)`);
-    raysimage.setAttribute("transform", `matrix(0.0422 0 0 0.0422 520 81)`);
+    raysimage.setAttribute("transform", `matrix(0.0422 0 0 0.0422 503 66)`);
   }
 
   lenceRange.addEventListener("input", function () {
     const rangeValueofD = document.getElementById("rangeValueofD");
     var lenceVal = document.getElementById("lenceRange").value;
-    rangeValueofD.innerHTML = + (120-lenceVal);
+    rangeValueofD.innerHTML = lenceVal;
 
     var position = 480 - (+lenceVal / 12) * 26;
 
@@ -92,12 +67,12 @@ raysBtn.addEventListener("click", () => {
     );
     raysimage.setAttribute(
       "transform",
-      `matrix(0.0422 0 0 0.0422 ${position1} 81)`
+      `matrix(0.0422 0 0 0.0422 ${position1} 66)`
     );
     getmaximaval();
   });
 
-  // rays.style.transform = rotate(`${rotation}deg`);
+  rays.style.transform = rotate(`${rotation}deg`);
   rays.style.transformOrigin = "50% 50%";
 });
 
@@ -125,7 +100,7 @@ function getmaximaval() {
 }
 
 let turn1=0,flag1=0,turn2=0,flag2=0,turn3=0,flag3=0,turn4=0,flag4=0,turn5=0,flag5=0;
-function completed(id){
+function completed(id) {
   var s = id.charAt(id.length - 1);
  
   if (s == 1) {
@@ -136,7 +111,6 @@ function completed(id){
         flag1 = 1;
         break;
       }
-      else flag1=0;
     }
     if (flag1== 0 && turn1 == 0) {
       document.getElementById(id).style.backgroundColor = "green";
@@ -154,7 +128,6 @@ else if(s==2){
       flag2 = 1;
       break;
     }
-    else flag2=0;
   }
   if (flag2 == 0 && turn2 == 0) {
     document.getElementById(id).style.backgroundColor = "green";
@@ -168,11 +141,11 @@ else if(s==2){
 else if(s==3){
 
   for (var i = 1; i <= 7; i++) {
-    var ans = document.getElementById(`third${i}`).value;
+    var ans = document.getElementById(`three${i}`).value;
     if (ans == 0) {
       flag3 = 1;
       break;
-    }else flag3=0;
+    }
   }
   if (flag3 == 0 && turn3 == 0) {
     document.getElementById(id).style.backgroundColor = "green";
@@ -191,7 +164,6 @@ else if(s==4){
       flag4 = 1;
       break;
     }
-    else flag4=0;
   }
   if (flag4 == 0 && turn4== 0) {
     document.getElementById(id).style.backgroundColor = "green";
@@ -210,7 +182,7 @@ else if(s==5){
     if (ans == 0) {
       flag5 = 1;
       break;
-    }else flag5=0;
+    }
   }
   if (flag5 == 0 && turn5 == 0) {
     document.getElementById(id).style.backgroundColor = "green";
@@ -221,6 +193,44 @@ else if(s==5){
   }
 }
 
+
+else if(s==6){
+  let turn = 0;
+  let flag = 0;
+  for (var i = 1; i <= 7; i++) {
+    var ans = document.getElementById(`six${i}`).value;
+    if (ans == 0) {
+      flag = 1;
+      break;
+    }
+  }
+  if (flag == 0 && turn == 0) {
+    document.getElementById(id).style.backgroundColor = "green";
+    turn = 1;
+  } else if (turn == 1) {
+    document.getElementById(id).style.backgroundColor = "red";
+    turn = 0;
+  }
+}
+
+else if(s==7){
+  let turn = 0;
+  let flag = 0;
+  for (var i = 1; i <= 7; i++) {
+    var ans = document.getElementById(`seven${i}`).value;
+    if (ans == 0) {
+      flag = 1;
+      break;
+    }
+  }
+  if (flag == 0 && turn == 0) {
+    document.getElementById(id).style.backgroundColor = "green";
+    turn = 1;
+  } else if (turn == 1) {
+    document.getElementById(id).style.backgroundColor = "red";
+    turn = 0;
+  }
+}
 }
 
 // var a=document.getElementById("changevalue");
@@ -257,38 +267,3 @@ function printTable() {
   win.document.write('</body></html>');
   win.print();
 }
-
-
-// const slider = document.getElementById("lenceRange");
-//     const images =Array.from(document.getElementsByClassName("raysCircle"));
-
-//     // Add an event listener to the slider to update the image blur on change.
-//     slider.addEventListener("input", function(e) {
-//        let radiusBase = e.target.value; 
-//        function mapRangeVal() {
-//         let clampIn = Math.min(108,Math.max(0,e.target.value));
-//         const incrementVal = clampIn + 1;
-//         const mappedVal = (incrementVal/18)*6
-//         return Math.min(6,Math.max(0,mappedVal))
-//        }
-//        console.log("radius base value",radiusBase);
-//       images.map((dot)=>{
-//         console.log("hhhhhhh")
-//         dot.style.filter = `blur(10px)`;
-//       }
-//       )
-//       // const blurValue = (slider.value/50)*10;
-      
-//       // console.log(slider.value);
-//       // console.log(blurValue);
-//       // console.log(anand);
-
-//       // image.style.filter = `blur(${blurValue}px)`;
-//     });
-
-
-
-
-//       function getanand() {
-
-//       }
