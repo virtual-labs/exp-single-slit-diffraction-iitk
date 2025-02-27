@@ -10,10 +10,10 @@
         "d": "Fermi Principle"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation",
         "b": "Superposition principle is the basic principle used in the interference of light. When the incoming light waves superimpose constructively, the intensity increases while when they add destructively, it decreases.",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "One-Fourth"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Explanation",
+        "b": "Explanation",
         "c": "As we know, I ∝ A2. Thus, as the two waves add constructively, their amplitude becomes twice and hence the intensity becomes four times.",
-        "d": "Explanation 2"
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
