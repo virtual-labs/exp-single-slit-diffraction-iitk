@@ -41,7 +41,7 @@
         "a": "To measure the intensity of the laser light",
         "b": " To create interference patterns",
         "c": "To measure the angle of incidence",
-        "d": "To diffract the laser light into a spectrum",
+        "d": "To diffract the laser light into a spectrum"
       },
       "explanations": {
         "a": " Explanation 2",
@@ -58,7 +58,7 @@
         "a": "The width of the slit",
         "b": "  The distance to the screen",
         "c": "The wavelength of the laser light",
-        "d": " The laser intensity",
+        "d": " The laser intensity"
       },
       "explanations": {
         "a": " The width of the slit - The width of the central maximum in the diffraction pattern is primarily influenced by the width of the slit. A narrower slit results in a wider central maximum, and vice versa.",
@@ -75,7 +75,7 @@
         "a": "They are due to the complete cancellation of light waves",
         "b": "They are due to the partial absorption of light by the slit",
         "c": "They occur because of the overlapping of reflected light waves",
-        "d": " They are due to the scattering of light waves at different angles",
+        "d": " They are due to the scattering of light waves at different angles"
       },
       "explanations": {
         "a": " Minima occur due to the complete destructive interference of light waves from different parts of the slit. This results in points of minimum intensity.",

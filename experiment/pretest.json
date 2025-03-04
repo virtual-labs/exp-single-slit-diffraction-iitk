@@ -53,12 +53,12 @@
       "difficulty": "beginner"
     },
      {
-      "question": "Which parameter primarily determines the width of the central maximum in the diffraction pattern obtained from a single slit?"
+      "question": "Which parameter primarily determines the width of the central maximum in the diffraction pattern obtained from a single slit?",
       "answers": {
         "a": " The distance to the screen",
         "b": "The width of the slit",
         "c": "The wavelength of the laser light",
-        "d": " The laser intensity",
+        "d": " The laser intensity"
       },
       "explanations": {
         "a": "Explanation 1 ",
@@ -70,12 +70,12 @@
       "difficulty": "beginner"
     },
      {
-      "question": "What is the primary cause of the diffraction pattern observed in a single-slit experiment with a He-Ne laser?"
+      "question": "What is the primary cause of the diffraction pattern observed in a single-slit experiment with a He-Ne laser?",
       "answers": {
         "a": " The interference of light waves from different sources",
         "b": "The bending of light waves around the edges of the slit",
         "c": "The reflection of light waves from the edges of the slit",
-        "d": " The absorption of light waves by the slit material",
+        "d": " The absorption of light waves by the slit material"
       },
       "explanations": {
         "a": "Explanation 1 ",
