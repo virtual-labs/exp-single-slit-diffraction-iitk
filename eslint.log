@@ -1,0 +1,25 @@
+
+/home/runner/work/exp-single-slit-diffraction-iitk/exp-single-slit-diffraction-iitk/experiment/simulation/js/main.js
+    3:10  warning  'openNav' is defined but never used                                                                                    no-unused-vars
+    8:10  warning  'closeNav' is defined but never used                                                                                   no-unused-vars
+   11:10  warning  'anand' is defined but never used                                                                                      no-unused-vars
+   45:5   warning  'rangeValueofD' is not defined                                                                                         no-undef
+   75:26  warning  'rotate' is not defined                                                                                                no-undef
+   94:14  warning  This branch can never execute. Its condition is a duplicate or covered by previous conditions in the if-else-if chain  no-dupe-else-if
+  103:10  warning  'completed' is defined but never used                                                                                  no-unused-vars
+  125:12  warning  'i' is already defined                                                                                                 no-redeclare
+  126:9   warning  'ans' is already defined                                                                                               no-redeclare
+  143:12  warning  'i' is already defined                                                                                                 no-redeclare
+  144:9   warning  'ans' is already defined                                                                                               no-redeclare
+  161:12  warning  'i' is already defined                                                                                                 no-redeclare
+  162:9   warning  'ans' is already defined                                                                                               no-redeclare
+  180:12  warning  'i' is already defined                                                                                                 no-redeclare
+  181:9   warning  'ans' is already defined                                                                                               no-redeclare
+  200:12  warning  'i' is already defined                                                                                                 no-redeclare
+  201:9   warning  'ans' is already defined                                                                                               no-redeclare
+  219:12  warning  'i' is already defined                                                                                                 no-redeclare
+  220:9   warning  'ans' is already defined                                                                                               no-redeclare
+  259:10  warning  'printTable' is defined but never used                                                                                 no-unused-vars
+
+✖ 20 problems (0 errors, 20 warnings)
+
